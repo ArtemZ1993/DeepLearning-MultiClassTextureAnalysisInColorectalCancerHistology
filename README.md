@@ -1,4 +1,4 @@
-# DeepLearning
+# Deep Learning Project
 ## Multi-Class Texture Analysis In Colorectal Cancer Histology
 
 
