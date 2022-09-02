@@ -1,5 +1,5 @@
 # DeepLearning
-## Multi Class Texture Analysis In Colorectal CancerH istology
+## Multi-Class Texture Analysis In Colorectal Cancer Histology
 
 
 Multi Class Texture Analysis In Colorectal Cancer Histology
