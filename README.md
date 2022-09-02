@@ -1,4 +1,5 @@
-# DeepLearning-MultiClassTextureAnalysisInColorectalCancerHistology
+# DeepLearning
+## Multi Class Texture Analysis In Colorectal CancerH istology
 
 
 Multi Class Texture Analysis In Colorectal Cancer Histology
@@ -12,7 +13,7 @@ We used this set to assess the classification performance of a wide range of tex
 Dataset Anonymized H&E stained CRC tissue slides were obtained from the pathology archive at the University Medical Center Mannheim (Heidelberg University, Mannheim, Germany).
 
 Train set
-Label name of category and 625 non-overlapping tissue for each label tiles of dimension 150X150 px (74X74 μm).
+Label name of category and 625 non-overlapping tissue for each label tiles of dimension 150X150 px 
 
 Test set
 Ten anonymized H&E stained CRC tissue 5000X5000 px
